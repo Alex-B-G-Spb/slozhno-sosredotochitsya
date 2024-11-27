@@ -9,4 +9,29 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
+--background__color: rgba(0, 0, 40, 1);
+--title__font__color: rgba(219, 0, 255, 1);
+--accent__color: rgba(255, 0, 112, 1);
+--main__font__color: rgba(241, 178, 206, 1);
+--decoration__color: rgba(255, 0, 112, 1);
+--accent__title__color: rgba(0, 0, 40, 1);
+--article__title__color: rgba(255, 0, 112, 1);
+--header__background__image: url("../images/cover-image-dark.png");
+}
+
+.header__dark-theme-decoration {
+  display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background__color: rgba(0, 0, 40, 1);
+    --title__font__color: rgba(219, 0, 255, 1);
+    --accent__color: rgba(255, 0, 112, 1);
+    --main__font__color: rgba(241, 178, 206, 1);
+    --decoration__color: rgba(255, 0, 112, 1);
+    --accent__title__color: rgba(0, 0, 40, 1);
+    --article__title__color: rgba(255, 0, 112, 1);
+    --header__background__image: url("../images/cover-image-dark.png");   
+  }
 }

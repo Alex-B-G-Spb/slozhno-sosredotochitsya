@@ -12,6 +12,7 @@
 --background__color: rgba(0, 0, 40, 1);
 --title__font__color: rgba(219, 0, 255, 1);
 --accent__color: rgba(255, 0, 112, 1);
+--accent__color__with__opasity: rgba(255, 0, 112, 0.4);
 --main__font__color: rgba(241, 178, 206, 1);
 --decoration__color: rgba(255, 0, 112, 1);
 --accent__title__color: rgba(0, 0, 40, 1);
@@ -28,6 +29,7 @@
     --background__color: rgba(0, 0, 40, 1);
     --title__font__color: rgba(219, 0, 255, 1);
     --accent__color: rgba(255, 0, 112, 1);
+    --accent__color__with__opasity: rgba(255, 0, 112, 0.4);
     --main__font__color: rgba(241, 178, 206, 1);
     --decoration__color: rgba(255, 0, 112, 1);
     --accent__title__color: rgba(0, 0, 40, 1);

@@ -6,6 +6,7 @@
 --background__color: rgba(255, 241, 247, 1);
 --title__font__color: rgba(255, 194, 230, 1);
 --accent__color: rgba(255, 141, 203, 1);
+--accent__color__with__opasity: (255, 141, 203, 0.4);
 --main__font__color: rgba(53, 52, 48, 1);
 --decoration__color: rgba(53, 52, 48, 1);
 --accent__title__color: rgba(53, 52, 48, 1);
